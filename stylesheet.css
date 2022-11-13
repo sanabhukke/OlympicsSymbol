@@ -1,0 +1,19 @@
+.body_background{
+    background-color:lemonchiffon;
+    background-position:center;
+    background-size: cover;
+}
+
+h1{
+color: ivory;
+background-color: cornflowerblue;
+font-style: italic;
+font-family: cursive;
+}
+
+#canvas{
+    background-color: peachpuff;
+    border-width:thick;
+    border: darkslateblue;
+    border-style: ridge;
+}
